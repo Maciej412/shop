@@ -1,1 +1,1 @@
-# sklep
+# Little shop with database.
