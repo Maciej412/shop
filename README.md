@@ -1,1 +1,1 @@
-# Little shop with database.
+# Little shop with database, unfinished.
