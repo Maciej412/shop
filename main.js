@@ -45,6 +45,7 @@ function Product(name,price,photo){
     this.price = price;
     this.photo = photo;
 }
+
 const ProductId1=new Product('Jasne spodnie jeansowe',179.99,`<img class="item-image" src="https://assets.butiklalala.pl/thumbs/1000xauto/2020-04::1587726161-93835997-1116846812002034-3093730170977124352-n.jpg">`);
 const ProductId2=new Product('Ciemne spodnie jeansowe',189.99,`<img class="item-image" src="https://fau-butik.pl/wp-content/uploads/2020/10/288DC260-996A-4E69-ADEA-8F9D262CD008.jpeg">`);
 const ProductId3=new Product('Spodnie jeansowe z wysokim stanem',167.99,`<img class="item-image" src="https://olika.com.pl/pol_pl_Jasne-spodnie-typu-balloon-jeans-z-wysokim-stanem-10234_5.jpg">`);
